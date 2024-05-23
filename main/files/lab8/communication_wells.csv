@@ -1,0 +1,9 @@
+A	C	20
+A	D	40
+C	A	20
+D	A	40
+D	E	50
+E	D	50
+E	G	70
+G	E	70
+C	D	10
